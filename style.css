@@ -149,6 +149,7 @@ main span{
     padding-right: 100px;
     margin-bottom: 100px;
     margin-top: 0;
+    justify-content: center;
 }
 .main-body-p{
     color: red;
